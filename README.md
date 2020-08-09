@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Hello!](https://tenor.com/view/hi-hello-smile-happy-doggie-gif-14181971)
+![Hello!](tenor.com/view/hi-hello-smile-happy-doggie-gif-14181971)
 <!--
 **caike72/caike72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
