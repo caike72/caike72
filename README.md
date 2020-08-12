@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Caike Laurentino and I live in Brazil. I started learning HTML and CSS recently and I love coding websites.
 ## Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
