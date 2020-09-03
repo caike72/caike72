@@ -12,4 +12,6 @@ My name is Caike Laurentino and I live in Brazil. I started learning HTML and CS
 ## Stats
 
 ![caike72's github stats](https://github-readme-stats.vercel.app/api?username=caike72&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caike73&hide=TeX&layout=compact)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=caike72.caike72)
 
