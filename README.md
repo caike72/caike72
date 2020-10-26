@@ -11,6 +11,11 @@ My name is Caike Laurentino and I live in Brazil. I started learning HTML and CS
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Angular](https://img.shields.io/badge/-Angular-%23DD0031?style=flat-square&logo=angular)
 
+## Interested in
+![Vue](https://img.shields.io/badge/-Vue-%23DD0031?style=flat-square&logo=vue)
+![Angular](https://img.shields.io/badge/-Angular-%23DD0031?style=flat-square&logo=angular)
+
+
 ## Stats
 
 ![caike72's github stats](https://github-readme-stats.vercel.app/api?username=caike72&show_icons=true&theme=dracula)
