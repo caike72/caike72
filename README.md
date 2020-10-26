@@ -12,7 +12,7 @@ My name is Caike Laurentino and I live in Brazil. I started learning HTML and CS
 ![Angular](https://img.shields.io/badge/-Angular-%23DD0031?style=flat-square&logo=angular)
 
 ## Interested in
-![Vue](https://img.shields.io/badge/-Vue-%23DD0031?style=flat-square&logo=vue)
+![Vue](https://img.shields.io/badge/-Vuejs-%23DD0031?style=flat-square&logo=vuejs)
 ![Angular](https://img.shields.io/badge/-Angular-%23DD0031?style=flat-square&logo=angular)
 
 
